@@ -5,26 +5,26 @@ import classes from './AvailableMeals.module.css';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
+    name: 'Adidas',
+    description: 'The name is enough',
     price: 22.99,
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
+    name: 'Puma',
     description: 'A german specialty!',
     price: 16.5,
   },
   {
     id: 'm3',
-    name: 'Barbecue Burger',
-    description: 'American, raw, meaty',
+    name: 'Bata',
+    description: 'Authetic brand at your service',
     price: 12.99,
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
-    description: 'Healthy...and green...',
+    name: 'Nike',
+    description: 'Comfort with luxury',
     price: 18.99,
   },
 ];
